@@ -3,6 +3,8 @@
 ## Overview
 This project implements an efficient real-time drowsiness detection system to prevent road accidents caused by driver fatigue. The system uses computer vision techniques to monitor driver's facial features and alerts them when signs of drowsiness are detected.
 
+![fatigue](https://github.com/user-attachments/assets/092dc232-8d90-4bc3-aeda-19a5cf51e33a)
+
 ## Features
 - Real-time face detection and tracking
 - Illumination-invariant skin segmentation
